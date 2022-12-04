@@ -33,6 +33,8 @@ To help with dataframe
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
 https://stackoverflow.com/questions/35934620/python-how-to-get-the-weekday-from-a-csv
 
+Test.py was where I tested a lot of code in VSCode before adding to Jupyter notebook
+
 To help with Seaborn
 https://seaborn.pydata.org/tutorial/introduction
 
